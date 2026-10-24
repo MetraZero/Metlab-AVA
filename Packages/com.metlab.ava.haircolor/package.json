@@ -1,7 +1,7 @@
 {
   "name": "com.metlab.ava.haircolor",
   "displayName": "房を選んで髪色をかえるやつ",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "unity": "2022.3",
   "description": "シーンビューで髪の房をクリックして、房ごとに色を塗り分けるエディタ拡張。",
   "author": {
