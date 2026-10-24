@@ -1,0 +1,15 @@
+{
+  "name": "com.metlab.shortcut",
+  "displayName": "ショートカットをつくるやつ",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "description": "よく使うフォルダやアセットのショートカットを、実際のフォルダ構成とは別に整理できるタブ。フォルダの色分け付き。",
+  "author": {
+    "name": "MetraZero",
+    "url": "https://github.com/MetraZero"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/MetraZero/Metlab-AVA/tree/main/Packages/com.metlab.shortcut",
+  "changelogUrl": "https://github.com/MetraZero/Metlab-AVA/blob/main/Packages/com.metlab.shortcut/CHANGELOG.md",
+  "vpmDependencies": {}
+}

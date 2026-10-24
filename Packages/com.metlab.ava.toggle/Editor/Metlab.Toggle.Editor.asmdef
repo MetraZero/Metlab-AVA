@@ -1,0 +1,21 @@
+{
+    "name": "Metlab.Toggle.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Metlab.Toggle",
+        "VRC.SDK3A",
+        "VRC.SDKBase",
+        "nadena.dev.modular-avatar.core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
