@@ -8,7 +8,7 @@ MetraZero 制作の VRChat アバター向けツールです。
 | --- | --- | --- | --- |
 | [トグルをつくるやつ](Packages/com.metlab.ava.toggle) | `com.metlab.ava.toggle` | 衣装やアクセサリのON/OFFメニューを Modular Avatar で非破壊に作るエディタ拡張。 | 1.0.0 |
 | [房を選んで髪色をかえるやつ](Packages/com.metlab.ava.haircolor) | `com.metlab.ava.haircolor` | シーンビューで髪の房をクリックして、房ごとに色を塗り分けるエディタ拡張。 | 1.0.0 |
-| [ショートカットをつくるやつ](Packages/com.metlab.shortcut) | `com.metlab.shortcut` | よく使うフォルダやアセットのショートカットを、実際のフォルダ構成とは別に整理できるタブ。フォルダの色分け付き。 | 0.0.0 |
+| [ショートカットをつくるやつ](Packages/com.metlab.shortcut) | `com.metlab.shortcut` | よく使うフォルダやアセットのショートカットを、実際のフォルダ構成とは別に整理できるタブ。フォルダの色分け付き。 | 1.0.0 |
 
 ## 導入方法（VCC / ALCOM）
 
