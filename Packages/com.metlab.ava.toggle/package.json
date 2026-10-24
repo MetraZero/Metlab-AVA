@@ -1,7 +1,7 @@
 {
   "name": "com.metlab.ava.toggle",
   "displayName": "トグルをつくるやつ",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "unity": "2022.3",
   "description": "衣装やアクセサリのON/OFFメニューを Modular Avatar で非破壊に作るエディタ拡張。",
   "author": {
