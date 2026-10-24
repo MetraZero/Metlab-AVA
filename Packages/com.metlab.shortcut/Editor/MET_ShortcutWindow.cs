@@ -204,11 +204,11 @@ namespace Metlab.Shortcut
 
         private bool scaleDirty;
 
-        [MenuItem("Tools/Metlab/ショートカットをつくるやつ")]
+        [MenuItem("Tools/Metlab/アセットのショートカットをつくるやつ")]
         public static void Open()
         {
             var win = GetWindow<MET_ShortcutWindow>();
-            win.titleContent = new GUIContent("ショートカットをつくるやつ");
+            win.titleContent = new GUIContent("アセットのショートカットをつくるやつ");
             win.Show();
         }
 
